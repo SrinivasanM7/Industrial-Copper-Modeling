@@ -1,6 +1,6 @@
 # Industrial Copper Modeling
 Name : SRINIVASAN M
-Batch : DW77
+Batch : DW77DW78
 Linkedin : https://www.linkedin.com/in/srinivasan-m-754033bb/
 ### **DOMAIN** : **Manufacturing**
 ### **AIM** : **Predicting Selling Price and Status(Won or Lost) using ML Regression and Classification Models.**
