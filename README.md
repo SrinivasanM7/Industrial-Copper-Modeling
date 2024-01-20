@@ -18,7 +18,7 @@ Linkedin : https://www.linkedin.com/in/srinivasan-m-754033bb/
 - Pickle
 - Streamlit
 
-**Installation**
+### Installation
 
 To run this project, you need to install the following packages:
 
@@ -32,7 +32,7 @@ pip install seaborn
 pip install streamlit
 ```
 
-### Work features**
+### Work features
 
 **Data Preprocessing:**
 
